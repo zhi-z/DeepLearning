@@ -1,5 +1,7 @@
+# TensorFlow之线性回归
 
-# 线性回归
+对于TensorFlow在线性回归中的应用也是先创建计算流图，然后再通过session来执行图中的计算，这就是TensorFlow的套路。
+
 TensorFlow在线性回归中的应用
 - 首先随机生成某条直线范围内的散点图
 - 再通过TensorFlow拟合这个图上的点
@@ -104,3 +106,6 @@ plt.show()
 
 ![png](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/TensorFlow%E5%9F%BA%E7%A1%80/2.TensorFlow%E5%BA%94%E7%94%A8_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/image/output_10_0.png)
 
+
+
+完整代码在这里[GitHub](https://github.com/zhi-z/DeepLearning/tree/master/TensorFlow%E5%9F%BA%E7%A1%80/2.TensorFlow%E5%BA%94%E7%94%A8_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)
