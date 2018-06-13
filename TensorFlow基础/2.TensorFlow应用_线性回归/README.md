@@ -29,7 +29,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/TensorFlow%E5%9F%BA%E7%A1%80/2.TensorFlow%E5%BA%94%E7%94%A8_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/image/output_2_0.png)
 
 
 ## 2.构建回归模型
@@ -102,5 +102,5 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/TensorFlow%E5%9F%BA%E7%A1%80/2.TensorFlow%E5%BA%94%E7%94%A8_%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/image/output_10_0.png)
 
