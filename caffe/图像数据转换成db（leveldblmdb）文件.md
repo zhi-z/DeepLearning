@@ -25,7 +25,7 @@
 
 如果图片与经下载到本地电脑上了，那我们首先需要创建一个图片列表清单，存放在txt文件下。本文以caffe程序中自带的图片为例，进行讲解，图片目录是  example/images/, 两张图片，一张为cat.jpg, 另一张为fish_bike.jpg，表示两个类别。如图所示，在这里我特别复制出多张*cat.jpg文件。
 
-![](/home/datah/Desktop/note/caffe/image/2.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/2.png)
 
 接下来通过sh脚本文件，第哦呵用linux命令来生成图片清单：
 
@@ -119,7 +119,7 @@ build/tools/convert_imageset --shuffle \
 # sudo sh examples/images/create_lmdb.sh
 ```
 
-
+完成从图片数据转换到caffe能吃的数据。
 
 ## 参考文献：
 
