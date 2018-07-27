@@ -57,9 +57,7 @@ All done
 
 在文件夹中会看到以下文件，如图所示
 
-<div align=center>
-![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/create_list_out.png)
-</div>
+​                                                                        ![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/create_list_out.png)
 
 并且在生成的train.txt文件中的内容如图所示。
 
