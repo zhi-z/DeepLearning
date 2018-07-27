@@ -111,11 +111,11 @@ bash examples/myfile/create_lmdb.sh
 
 输出的结果：
 
-![](/home/datah/Desktop/GitHub/DeepLearning/caffe/image/caffe_re_out.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/caffe_re_out.png)
 
 同时在 examples/myfile下面生成两个文件夹img_train_lmdb和img_test_lmdb，分别用于保存图片转换后的lmdb文件。如同所示。
 
-![](/home/datah/Desktop/GitHub/DeepLearning/caffe/image/caffe_re_out_2.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/caffe_re_out_2.png)
 
 ## 3. 计算均值并保存
 
@@ -220,7 +220,7 @@ layer {
 
 结果：
 
-![](/home/datah/Desktop/GitHub/DeepLearning/caffe/image/train_out.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/train_out.png)
 
 
 
