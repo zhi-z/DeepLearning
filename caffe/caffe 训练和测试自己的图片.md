@@ -57,11 +57,11 @@ All done
 
 在文件夹中会看到以下文件，如图所示
 
-![](/home/datah/Desktop/AI/caffe/image/create_list_out.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/create_list_out.png)
 
 并且在生成的train.txt文件中的内容如图所示。
 
-![](/home/datah/Desktop/AI/caffe/image/create_list_out_2.png)
+![](https://raw.githubusercontent.com/zhi-z/DeepLearning/master/caffe/image/create_list_out_2.png)
 
 到这里完成了把图片的目录添加到一个list中，相当与制作标签。
 
