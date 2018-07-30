@@ -172,11 +172,11 @@ layer {
 
   **（2）可选参数：**
 
-  **rand_skip**: 在开始的时候，路过某个数据的输入。通常对异步的SGD很有用。
+     **rand_skip**: 在开始的时候，路过某个数据的输入。通常对异步的SGD很有用。
 
-  **shuffle**: 随机打乱顺序，默认值为false
+     **shuffle**: 随机打乱顺序，默认值为false
 
-  **new_height**,**new_width**: 如果设置，则将图片进行resize
+     **new_height**,**new_width**: 如果设置，则将图片进行resize
 
   **示例：**
 
@@ -238,4 +238,10 @@ layer {
   }
   ```
 
-  
+
+
+
+## 3 参考文献：
+
+[Caffe学习系列(2)：数据层及参数](https://www.cnblogs.com/denny402/p/5070928.html)
+
